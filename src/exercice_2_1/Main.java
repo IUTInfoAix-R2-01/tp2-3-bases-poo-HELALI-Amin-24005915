@@ -1,3 +1,4 @@
+package exercice_2_1;
 public class Main {
     public static void main(String[] args) {
         Author Amin = new Author(" Amin", "amin.helali@etu.univ-amu.fr", 'm');
@@ -13,7 +14,7 @@ public class Main {
 
         livreDeLaJungle.setPrice(20.99);
         livreDeLaJungle.setQty(65);
-        System.out.println(" Le nom du livre est : " + livreDeLaJungle.getName());
+        System.out.println("Le nom du livre est : " + livreDeLaJungle.getName());
         System.out.println("Le prix est de : " + livreDeLaJungle.getPrice());
         System.out.println("La quantitÃ© est de : " + livreDeLaJungle.getQty());
         System.out.println("L'auteur est : " + livreDeLaJungle.getAuthor());

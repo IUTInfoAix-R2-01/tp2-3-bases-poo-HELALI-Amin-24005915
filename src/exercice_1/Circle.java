@@ -1,14 +1,12 @@
+package exercice_1;
+
 public class Circle{
-    public class Main {
-
-	}
-
-	double radius;
+    double radius;
     String color;
 
     public  Circle(){
         radius = 1.0;
-        color = "red ";
+        color = "red";
     }
 
     public Circle(double r) {
@@ -24,4 +22,3 @@ public class Circle{
         return radius * radius * Math.PI;
     }
 }
-

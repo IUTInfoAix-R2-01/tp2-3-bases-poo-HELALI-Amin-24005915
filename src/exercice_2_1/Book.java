@@ -1,10 +1,7 @@
+package exercice_2_1;
+
 public class Book {
-    public class test_exo_2_1 {
-
-	}
-
-
-	private String name;
+    private String name;
     private Author author;
     private double price;
     private int qty = 0;
@@ -60,7 +57,6 @@ public class Book {
 
 
     public String toString() {
-        return "Book[name= " + name + "," + author.toString() + ",price=" + price + ",qty=" + qty + "]";
+        return "Book[name=" + name + "," + author.toString() + ",price=" + price + ",qty=" + qty + "]";
     }
 }
-

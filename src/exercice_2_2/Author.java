@@ -1,3 +1,5 @@
+package exercice_2_2;
+
 public class Author {
     private String name;
     private String email;
@@ -17,16 +19,7 @@ public class Author {
         return email;
     }
 
-    public void setEmail(String email) {
-        this.email = email;
-    }
-
     public char getGender() {
         return gender;
-    }
-
-
-    public String toString() {
-        return "Author[name= " + name + ",email=" + email + ",gender=" + gender + "]";
     }
 }
