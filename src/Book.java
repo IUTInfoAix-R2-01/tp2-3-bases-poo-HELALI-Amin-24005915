@@ -60,7 +60,7 @@ public class Book {
 
 
     public String toString() {
-        return "Book[name=" + name + "," + author.toString() + ",price=" + price + ",qty=" + qty + "]";
+        return "Book[name= " + name + "," + author.toString() + ",price=" + price + ",qty=" + qty + "]";
     }
 }
 
