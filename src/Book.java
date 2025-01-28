@@ -1,5 +1,10 @@
 public class Book {
-    private String name;
+    public class test_exo_2_1 {
+
+	}
+
+
+	private String name;
     private Author author;
     private double price;
     private int qty = 0;
