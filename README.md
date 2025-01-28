@@ -7,4 +7,4 @@ Ne pas modifier ce fichier.
 - le dossier <code>src/</code>
 - le fichier <code>src/.gitignore</code> (identique au <code>.gitignore</code> à la racine)
 
-BONJOUR VOICI  LA MODIFICATION DU README
+BONJOUR VOICI  LA MODIFICATION DU README.
