@@ -8,7 +8,7 @@ public class Circle{
 
     public  Circle(){
         radius = 1.0;
-        color = "red";
+        color = "red ";
     }
 
     public Circle(double r) {
